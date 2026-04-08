@@ -1,0 +1,11 @@
+{
+  "cssTheme": "Border",
+  "enabledCssSnippets": [
+    "paragraph-spacing",
+    "blockquote"
+  ],
+  "interfaceFontFamily": "JetBrains Mono,苹方-简",
+  "monospaceFontFamily": "JetBrains Mono,苹方-简",
+  "textFontFamily": "JetBrains Mono,苹方-简",
+  "accentColor": "#03817f"
+}

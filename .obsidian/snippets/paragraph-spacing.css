@@ -1,0 +1,36 @@
+/* 全局段落间距 - 实时预览和标准预览 */
+.markdown-reading-view p,
+.markdown-preview-view p {
+    margin-top: 1.5em !important;
+    margin-bottom: 1.5em !important;
+}
+
+/* 全局标题间距 */
+.markdown-reading-view h1,
+.markdown-reading-view h2,
+.markdown-reading-view h3,
+.markdown-reading-view h4,
+.markdown-reading-view h5,
+.markdown-reading-view h6,
+.markdown-preview-view h1,
+.markdown-preview-view h2,
+.markdown-preview-view h3,
+.markdown-preview-view h4,
+.markdown-preview-view h5,
+.markdown-preview-view h6 {
+    margin-top: 2em !important;
+    margin-bottom: 1em !important;
+}
+
+/* 全局列表、引用块、代码块间距 */
+.markdown-reading-view ul,
+.markdown-reading-view ol,
+.markdown-reading-view blockquote,
+.markdown-reading-view pre,
+.markdown-preview-view ul,
+.markdown-preview-view ol,
+.markdown-preview-view blockquote,
+.markdown-preview-view pre {
+    margin-top: 1em !important;
+    margin-bottom: 1em !important;
+}

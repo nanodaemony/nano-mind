@@ -1,0 +1,4 @@
+.markdown-rendered blockquote {
+  --blockquote-color: #025420;
+  color: var(--blockquote-color);
+}

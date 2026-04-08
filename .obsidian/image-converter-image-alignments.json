@@ -1,0 +1,510 @@
+{
+  "B-知识库/文档规范.md": {
+    "41c000f56dd4408379108d671261bb32": {
+      "position": "center",
+      "width": "333px",
+      "height": "588px",
+      "wrap": false
+    },
+    "f003edd352b643391cd71799d27c5295": {
+      "position": "center",
+      "width": "776px",
+      "height": "258px",
+      "wrap": false
+    },
+    "f9b9169000cab81a2e4f045b6eccd5f6": {
+      "position": "center",
+      "width": "334px",
+      "height": "589px",
+      "wrap": false
+    },
+    "deeff8a0d7bb54ff9d42d5e8bc23bab4": {
+      "position": "center",
+      "width": "351px",
+      "height": "530px",
+      "wrap": false
+    },
+    "4eb8c40649b90f7491b3bd6660528b55": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "C-工作/3-2025面试/1.总结.md": {
+    "3fddbdfb902846db3d14ab3f522e1a0e": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "C-工作/3-2025面试/10.综合问题.md": {
+    "128d8f8b620cbf93760d2e1b2f2c2cda": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "39e05f8fb453ded3cc0d28c75800fe88": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "818c5d39f4e2ad9a7a580a7bc5712565": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "fede2c36e4f2553478a817c9b5a9085d": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "08edb5c94de190f6a9abdad8806f1064": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "45f4e5579a6be44c6f6fff74c2e6a90a": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "0609b9c25c21463c357420167c99e7d5": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "dcaa00809db625ff1736ba79cffdd824": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "5b8fdd21298a3a3b994dde29b3c7684b": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "3b5d73565fea3b86e0d5b7101c59c20b": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "9b0ca89516a604466518c76cbabaa053": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "76b77604214be2590cef015b6a2b3466": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "C-工作/3-2025面试/11.故障处理与问题优化.md": {
+    "040e6f1486f00efc534fc3536dfca9be": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "b4bda626026574d18ecd99544f548643": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "645725fef6f4ad4bd80e470b063a84bf": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "96b7a4af0a80f4a35ea499c0c246a0e6": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "81375c8f9178269751048eb38ed7f0e2": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "4539236026db7d02ee53688584f698fb": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "32eef0fbef8e5740a9f1e2db136a188e": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "7fb6932c259586fec791b8f2d6938dc4": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "e84dd76a1ee29f57f9ba6dfce55027c5": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "a7ec13e9ff07a4ae897f7173df2ccb9a": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "9a40b8e9edc0bcb98135c8a40735e7fe": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "28e76a31788a4b8bb4ca5376052a9c2a": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "d1ae50df59d375be0ad4c4eedec2e630": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "5cbe2f9e210ccf72bb647cc57744ad60": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "11eee434067451bf47120982098d2f84": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "a22684b00c1b5a24ae2b5a0b2ddbe78a": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "525dce5251abd571e636bd5236aa2034": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "09640787b507549e6c1f87c3a3fa59d2": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "3d82bb630fddfda538b002254f7ca31a": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "cb64e9d2caedfa2a0b514a5212add4a0": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "6d8b2d044d859cd492bd2a1e0bae3c51": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "2f1ec386ec5eeead6f6b9d99f00b4f7d": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "50ff292850a64d80ea1df3e2b7f0f112": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "12d6efb31c7fa32fbc9928a3e227e5c7": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "2dfd6720c5b71fc7a95332bce9e68600": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "b74960146ae352d64cf058faec4558a1": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "1d6a8be0866ca98c7e16e9deccb2429f": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "6384725ffd81fb402c34cd7ef95108f4": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "484aad0bbcf3288b4c9129c7bb0244f4": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "72dc810451ab9823cc971962e2595ba6": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "a1901b4ac8c3f4f633420114e3708d39": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "c550dc37d1988fdf238ed60f04c86fc4": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "f68ba4869068d524a41802836ab3a656": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "7b59ac37955628cc207d9c45597d5c2b": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "e528b57668b3eff10b251aab4513d0f0": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "2cb648c082616b341046ba58ad0ec242": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "dd5d1b55194521f86b942c54a5e5eff9": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "6322dbb032c24306b35f649245413de7": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "e4f94f5e776f2cfb0544d492210191b9": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "4f8fc1ed42e99b0b19c86b75997bbea8": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "99c9cc4ac3ceb0724aa6c8465ad62e09": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "321510e6f0a05ea9d796dbe2f59b340b": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "a255cffe04db7e0a04bd012d19d6ef33": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "887e750ed010403a2a4ad454a2864622": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "7a58a67f2e65d3a99508f10b871ba9aa": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "5a39313c7bf83a6f2e4ecd731e583f9d": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "99e973be13e666472999deda820109f2": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "7ebbf8bcad3fe5413bf80d1bff52b315": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "6ce0858aa67fe595c7a77c4499a41021": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "d1257d38fbbd9b33a87aa996fb322a49": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "872c3dcc08831875d18a3a9e0b1dc921": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "bade530135f8cc1880a975ce484d13de": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "48c43188e5336ecefbf91b1bac071964": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "685d091bc82bbc71630fb4bb10d438a3": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "C-工作/3-2025面试/12-场景题.md": {
+    "4c8e76858d197e1857adde4bed9c6491": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "cf799416cbab9526c0b826a5204f6b5b": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "977c9688dbdb5020205b4b7115868d8d": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "e60ac13d7ca73572cfc21ce282a62c06": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "96592e469cbf3cdea7d6481a361d57fd": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "f3d002b836f88ac3b71f0db07f2bfa60": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "034a40db6f3870bec27d2ac7cfd93232": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "96310ab4dca94e6035beb16fa37c45b3": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "d6b7d59c43551a1eb8876cdf99b02b52": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "0746a7ce56d0574f4da62325c44c205c": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "d6d73e327ea92e523d080658c086c59b": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  }
+}
