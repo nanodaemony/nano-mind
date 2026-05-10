@@ -2585,6 +2585,12 @@
       "width": "",
       "height": "",
       "wrap": false
+    },
+    "62c524619a15352e55d26159b37dbf25": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
     }
   },
   "E-Java/1-基础/2. 类与继承.md": {
@@ -2757,14 +2763,6 @@
   },
   "E-Java/5-JVM/1. 走进JVM.md": {
     "4f1b9030e0c05f8f6e4af765d7cd402a": {
-      "position": "center",
-      "width": "",
-      "height": "",
-      "wrap": false
-    }
-  },
-  "G-系统/9-系统设计与优化/1. 系统设计与服务治理.md": {
-    "08fa3e8a5a3e391684ce0a1e672b8312": {
       "position": "center",
       "width": "",
       "height": "",
