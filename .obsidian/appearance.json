@@ -2,7 +2,9 @@
   "cssTheme": "Border",
   "enabledCssSnippets": [
     "paragraph-spacing",
-    "blockquote"
+    "blockquote",
+    "inline-code-background",
+    "codeblock-vscode"
   ],
   "interfaceFontFamily": "JetBrains Mono,苹方-简",
   "monospaceFontFamily": "JetBrains Mono,苹方-简",

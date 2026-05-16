@@ -397,7 +397,7 @@ private Page<OrderDTO> queryOrderList2(OrderPageQuery query) {
 
 分页 size 的大小并没有一个固定的标准，取决于业务需求、数据量及数据库等，**但动辄几千上万的分页 size，会带来性能瓶颈**，而大量的慢 SQL 不但影响客户体验，对系统稳定性也是极大的隐患。
 
-#### **超多分页慢 SQL**
+#### 超多分页慢 SQL
 
 反例：
 
