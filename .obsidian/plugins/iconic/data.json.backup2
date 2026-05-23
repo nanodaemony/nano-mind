@@ -1,8 +1,8 @@
 {
   "biggerIcons": "mobile",
   "clickableIcons": "desktop",
-  "showAllFileIcons": false,
-  "showAllFolderIcons": false,
+  "showAllFileIcons": true,
+  "showAllFolderIcons": true,
   "minimalFolderIcons": true,
   "showMarkdownTabIcons": true,
   "showTitleIcons": true,
@@ -28,11 +28,89 @@
   },
   "appIcons": {},
   "tabIcons": {},
-  "fileIcons": {},
+  "fileIcons": {
+    "B-知识库/学习规划.md": {
+      "icon": "lucide-laugh",
+      "color": "cyan"
+    },
+    "B-知识库/文档规范.md": {
+      "icon": "lucide-laugh",
+      "color": "cyan"
+    },
+    "B-知识库/知识库.md": {
+      "icon": "lucide-laugh",
+      "color": "cyan"
+    },
+    "C-工作/1-工作总结/工作经验.md": {
+      "icon": "lucide-laugh",
+      "color": "blue"
+    },
+    "C-工作/2-软实力/如何做好技术主R.md": {
+      "icon": "lucide-laugh",
+      "color": "blue"
+    },
+    "C-工作/3-2025面试/1.总结.md": {
+      "icon": "lucide-laugh",
+      "color": "pink"
+    },
+    "C-工作/3-2025面试/10.综合问题.md": {
+      "icon": "lucide-laugh",
+      "color": "pink"
+    },
+    "C-工作/3-2025面试/11.故障处理与问题优化.md": {
+      "icon": "lucide-laugh",
+      "color": "pink"
+    },
+    "C-工作/3-2025面试/12-场景题.md": {
+      "icon": "lucide-laugh",
+      "color": "pink"
+    },
+    "C-工作/3-2025面试/13-非技术问题.md": {
+      "icon": "lucide-laugh",
+      "color": "pink"
+    },
+    "C-工作/3-2025面试/2.个人简历.md": {
+      "icon": "lucide-laugh",
+      "color": "pink"
+    },
+    "C-工作/4-用户营销/1-基础.md": {
+      "icon": "lucide-laugh",
+      "color": "pink"
+    },
+    "D-基础/1-计算机基础/1. 密码学.md": {
+      "icon": "lucide-laugh",
+      "color": "cyan"
+    },
+    "D-基础/2-操作系统/1. 操作系统基础.md": {
+      "color": "green",
+      "icon": "lucide-laugh"
+    },
+    "D-基础/2-操作系统/2. 进程管理.md": {
+      "icon": "lucide-laugh",
+      "color": "green"
+    },
+    "D-基础/2-操作系统/3. 内存管理.md": {
+      "icon": "lucide-laugh",
+      "color": "green"
+    }
+  },
   "bookmarkIcons": {},
   "tagIcons": {},
   "propertyIcons": {},
   "ribbonIcons": {},
-  "fileRules": [],
+  "fileRules": [
+    {
+      "id": "4Mkr9",
+      "name": "无标题规则",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "name",
+          "operator": "contains"
+        }
+      ],
+      "enabled": true
+    }
+  ],
   "folderRules": []
 }
