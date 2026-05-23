@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "O-待看/119-Java 业务开发常见错误 100 例.md",
+                "file": "D-基础/3-网络/8. 综合问题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "119-Java 业务开发常见错误 100 例"
+              "title": "8. 综合问题"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O-待看/119-Java 业务开发常见错误 100 例.md",
+                "file": "D-基础/3-网络/8. 综合问题.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "119-Java 业务开发常见错误 100 例 的大纲"
+              "title": "8. 综合问题 的大纲"
             }
           }
         ],
@@ -170,7 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 535.5
+    "width": 330.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,37 +182,38 @@
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "iconic:打开规则书": false
     }
   },
   "active": "0c4a0516c9305af8",
   "lastOpenFiles": [
-    "O-待看/116-架构实战案例解析.md",
-    "O-待看/119-Java 业务开发常见错误 100 例.md",
-    "O-待看/188-Spring编程常见错误50例.md",
-    "O-待看/13-深入剖析Kubernetes.md",
-    "E-Java/4-高级特性/4. 流Stream.md",
-    "O-待看/1-凤凰架构.md",
-    "O-待看/0-值得一读文章集合.md",
-    "O-待看/191-性能优化高手课.md",
-    "O-待看/173-代码之丑.md",
-    "O-待看/172-分布式金融架构.md",
-    "O-待看/166-容器实战高手课.md",
-    "O-待看/146-Redis核心技术与实战.md",
-    "O-待看/141-OAuth 2.0实战课.md",
-    "O-待看/133-职场求生攻略.md",
-    "O-待看/129-系统性能调优必知必会.md",
-    "O-待看/115-RPC实战与核心原理.md",
-    "O-待看/114-分布式协议与算法实战.md",
-    "O-待看/101-后端技术面试38讲.md",
-    "O-待看/98-设计模式之美.md",
-    "O-待看/97-项目管理实战20讲.md",
-    "O-待看/94-DDD实战课.md",
-    "O-待看/90-分布式技术原理与算法解析.md",
-    "O-待看/88-高并发系统设计40问.md",
-    "O-待看/79-消息队列高手课.md",
-    "O-待看/48-从0开始做增长.md",
-    "O-待看/46-Kafka核心技术与实战.md",
+    "D-基础/3-网络/7. 网络安全.md",
+    "D-基础/3-网络/6. HTTP.md",
+    "D-基础/3-网络/5. 应用层.md",
+    "D-基础/3-网络/4. 传输层.md",
+    "D-基础/3-网络/3. 网络层.md",
+    "D-基础/3-网络/2. 数据链路层.md",
+    "D-基础/3-网络/1. 网络基础.md",
+    "D-基础/2-操作系统/7. Shell常见命令.md",
+    "D-基础/2-操作系统/6. Shell编程基础.md",
+    "D-基础/2-操作系统/5. Linux系统管理.md",
+    "D-基础/2-操作系统/4. IO操作管理.md",
+    "D-基础/2-操作系统/3. 内存管理.md",
+    "D-基础/2-操作系统/2. 进程管理.md",
+    "D-基础/2-操作系统/1. 操作系统基础.md",
+    "D-基础/1-计算机基础/1. 密码学.md",
+    "C-工作/4-用户营销/1-基础.md",
+    "C-工作/3-2025面试/13-非技术问题.md",
+    "C-工作/3-2025面试/12-场景题.md",
+    "C-工作/3-2025面试/11.故障处理与问题优化.md",
+    "C-工作/3-2025面试/10.综合问题.md",
+    "C-工作/3-2025面试/2.个人简历.md",
+    "C-工作/3-2025面试/1.总结.md",
+    "C-工作/2-软实力/如何做好技术主R.md",
+    "C-工作/1-工作总结/工作经验.md",
+    "B-知识库/学习规划.md",
+    "B-知识库/文档规范.md",
     "C-工作/5-YFD/3-问题记录",
     "C-工作/5-YFD/2-墨水屏",
     "C-工作/5-YFD/1-口算",
