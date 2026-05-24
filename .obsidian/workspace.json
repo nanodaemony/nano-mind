@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "E-Java/3-并发/6. Atomic原子变量与Unsafe类与CAS.md",
+                "file": "E-Java/5-JVM/8. 虚拟机字节码执行引擎.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6. Atomic原子变量与Unsafe类与CAS"
+              "title": "8. 虚拟机字节码执行引擎"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "E-Java/3-并发/6. Atomic原子变量与Unsafe类与CAS.md",
+                "file": "E-Java/5-JVM/8. 虚拟机字节码执行引擎.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "6. Atomic原子变量与Unsafe类与CAS 的大纲"
+              "title": "8. 虚拟机字节码执行引擎 的大纲"
             }
           }
         ],
@@ -188,6 +188,24 @@
   },
   "active": "d6f951a737894e7e",
   "lastOpenFiles": [
+    "E-Java/5-JVM/7. 虚拟机类加载机制.md",
+    "E-Java/5-JVM/6. 类文件结构.md",
+    "E-Java/5-JVM/5. 调优案例分析与实战.md",
+    "E-Java/1-基础/1. Java基础.md",
+    "E-Java/5-JVM/4. JVM性能监控与故障处理工具.md",
+    "E-Java/5-JVM/3. 垃圾收集器与内存分配策略.md",
+    "E-Java/5-JVM/2. JVM内存区域与对象解析.md",
+    "E-Java/5-JVM/1. 走进JVM.md",
+    "E-Java/4-高级特性/7. SPI.md",
+    "E-Java/4-高级特性/6. 代理.md",
+    "E-Java/4-高级特性/5. 反射.md",
+    "E-Java/4-高级特性/4. 流Stream.md",
+    "E-Java/4-高级特性/3. Lambda表达式.md",
+    "E-Java/4-高级特性/2. Java网络IO.md",
+    "E-Java/4-高级特性/1. IO操作.md",
+    "E-Java/3-并发/8. ThreadLocal.md",
+    "E-Java/3-并发/7. 线程池与定时任务.md",
+    "E-Java/3-并发/6. Atomic原子变量与Unsafe类与CAS.md",
     "E-Java/3-并发/5. 线程协作与JUC组件.md",
     "O-待看/41-10x程序员工作法.md",
     "O-待看/101-后端技术面试38讲.md",
@@ -196,24 +214,6 @@
     "O-待看/98-设计模式之美.md",
     "O-待看/88-高并发系统设计40问.md",
     "O-待看/79-消息队列高手课.md",
-    "O-待看/24-Java并发编程实战.md",
-    "O-待看/46-Kafka核心技术与实战.md",
-    "O-待看/06-MySQL实战45讲.md",
-    "E-Java/3-并发/4. 显式锁ReentrantLock.md",
-    "H-算法/2-算法题目/1.数组题目.md",
-    "G-系统/2-系统接入/3. Netty.md",
-    "F-设计与开发/6-代码质量/2. 阿里巴巴编程规范.md",
-    "F-设计与开发/6-代码质量/1. 代码整洁之道.md",
-    "F-设计与开发/4-工具与环境/4. MyBatis.md",
-    "F-设计与开发/1-软件设计/2. 设计模式.md",
-    "E-Java/3-并发/8. ThreadLocal.md",
-    "E-Java/3-并发/7. 线程池与定时任务.md",
-    "E-Java/3-并发/6. Atomic原子变量与Unsafe类与CAS.md",
-    "E-Java/3-并发/3. AQS.md",
-    "E-Java/3-并发/2. Java内置锁.md",
-    "E-Java/3-并发/1. 多线程基础.md",
-    "E-Java/2-容器类/4. 并发容器类.md",
-    "E-Java/2-容器类/3. Map与Set类.md",
     "zimg/yuque-1779533337402-77.png",
     "zimg/yuque-1779533337301-76.png",
     "zimg/yuque-1779533337195-75.png",

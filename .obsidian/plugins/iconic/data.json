@@ -220,6 +220,74 @@
     "E-Java/3-并发/6. Atomic原子变量与Unsafe类与CAS.md": {
       "icon": "lucide-laugh",
       "color": "red"
+    },
+    "E-Java/3-并发/7. 线程池与定时任务.md": {
+      "icon": "lucide-laugh",
+      "color": "red"
+    },
+    "E-Java/3-并发/8. ThreadLocal.md": {
+      "icon": "lucide-laugh",
+      "color": "red"
+    },
+    "E-Java/4-高级特性/1. IO操作.md": {
+      "icon": "lucide-laugh",
+      "color": "orange"
+    },
+    "E-Java/4-高级特性/2. Java网络IO.md": {
+      "icon": "lucide-laugh",
+      "color": "orange"
+    },
+    "E-Java/4-高级特性/3. Lambda表达式.md": {
+      "icon": "lucide-laugh",
+      "color": "orange"
+    },
+    "E-Java/4-高级特性/4. 流Stream.md": {
+      "icon": "lucide-laugh",
+      "color": "orange"
+    },
+    "E-Java/4-高级特性/5. 反射.md": {
+      "icon": "lucide-laugh",
+      "color": "orange"
+    },
+    "E-Java/4-高级特性/6. 代理.md": {
+      "icon": "lucide-laugh",
+      "color": "orange"
+    },
+    "E-Java/4-高级特性/7. SPI.md": {
+      "icon": "lucide-laugh",
+      "color": "orange"
+    },
+    "E-Java/5-JVM/1. 走进JVM.md": {
+      "icon": "lucide-laugh",
+      "color": "blue"
+    },
+    "E-Java/5-JVM/2. JVM内存区域与对象解析.md": {
+      "icon": "lucide-laugh",
+      "color": "blue"
+    },
+    "E-Java/5-JVM/3. 垃圾收集器与内存分配策略.md": {
+      "icon": "lucide-laugh",
+      "color": "blue"
+    },
+    "E-Java/5-JVM/4. JVM性能监控与故障处理工具.md": {
+      "icon": "lucide-laugh",
+      "color": "blue"
+    },
+    "E-Java/5-JVM/5. 调优案例分析与实战.md": {
+      "icon": "lucide-laugh",
+      "color": "blue"
+    },
+    "E-Java/5-JVM/6. 类文件结构.md": {
+      "icon": "lucide-laugh",
+      "color": "blue"
+    },
+    "E-Java/5-JVM/7. 虚拟机类加载机制.md": {
+      "icon": "lucide-laugh",
+      "color": "blue"
+    },
+    "E-Java/5-JVM/8. 虚拟机字节码执行引擎.md": {
+      "icon": "lucide-laugh",
+      "color": "blue"
     }
   },
   "bookmarkIcons": {},

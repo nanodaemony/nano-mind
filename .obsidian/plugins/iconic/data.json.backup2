@@ -145,9 +145,109 @@
       "icon": "lucide-laugh",
       "color": "purple"
     },
+    "E-Java/1-基础/10. 泛型.md": {
+      "icon": "lucide-laugh",
+      "color": "purple"
+    },
     "E-Java/1-基础/2. 类与继承.md": {
       "icon": "lucide-laugh",
       "color": "purple"
+    },
+    "E-Java/1-基础/3. 抽象类与接口.md": {
+      "icon": "lucide-laugh",
+      "color": "purple"
+    },
+    "E-Java/1-基础/4. 内部类.md": {
+      "icon": "lucide-laugh",
+      "color": "purple"
+    },
+    "E-Java/1-基础/5. 枚举类.md": {
+      "icon": "lucide-laugh",
+      "color": "purple"
+    },
+    "E-Java/1-基础/6. 常用类.md": {
+      "icon": "lucide-laugh",
+      "color": "purple"
+    },
+    "E-Java/1-基础/7. 关键字.md": {
+      "icon": "lucide-laugh",
+      "color": "purple"
+    },
+    "E-Java/1-基础/8. 注解.md": {
+      "icon": "lucide-laugh",
+      "color": "purple"
+    },
+    "E-Java/1-基础/9. 异常.md": {
+      "icon": "lucide-laugh",
+      "color": "purple"
+    },
+    "E-Java/2-容器类/1. 容器集合类.md": {
+      "icon": "lucide-laugh",
+      "color": "orange"
+    },
+    "E-Java/2-容器类/2. List与Queue类.md": {
+      "icon": "lucide-laugh",
+      "color": "orange"
+    },
+    "E-Java/2-容器类/3. Map与Set类.md": {
+      "icon": "lucide-laugh",
+      "color": "orange"
+    },
+    "E-Java/2-容器类/4. 并发容器类.md": {
+      "icon": "lucide-laugh",
+      "color": "orange"
+    },
+    "E-Java/3-并发/1. 多线程基础.md": {
+      "icon": "lucide-laugh",
+      "color": "red"
+    },
+    "E-Java/3-并发/2. Java内置锁.md": {
+      "icon": "lucide-laugh",
+      "color": "red"
+    },
+    "E-Java/3-并发/3. AQS.md": {
+      "icon": "lucide-laugh",
+      "color": "red"
+    },
+    "E-Java/3-并发/4. 显式锁ReentrantLock.md": {
+      "icon": "lucide-laugh",
+      "color": "red"
+    },
+    "E-Java/3-并发/5. 线程协作与JUC组件.md": {
+      "icon": "lucide-laugh",
+      "color": "red"
+    },
+    "E-Java/3-并发/6. Atomic原子变量与Unsafe类与CAS.md": {
+      "icon": "lucide-laugh",
+      "color": "red"
+    },
+    "E-Java/3-并发/7. 线程池与定时任务.md": {
+      "icon": "lucide-laugh",
+      "color": "red"
+    },
+    "E-Java/3-并发/8. ThreadLocal.md": {
+      "icon": "lucide-laugh",
+      "color": "red"
+    },
+    "E-Java/4-高级特性/1. IO操作.md": {
+      "icon": "lucide-laugh",
+      "color": "orange"
+    },
+    "E-Java/4-高级特性/2. Java网络IO.md": {
+      "icon": "lucide-laugh",
+      "color": "orange"
+    },
+    "E-Java/4-高级特性/3. Lambda表达式.md": {
+      "icon": "lucide-laugh",
+      "color": "orange"
+    },
+    "E-Java/4-高级特性/4. 流Stream.md": {
+      "icon": "lucide-laugh",
+      "color": "orange"
+    },
+    "E-Java/4-高级特性/5. 反射.md": {
+      "icon": "lucide-laugh",
+      "color": "orange"
     }
   },
   "bookmarkIcons": {},
