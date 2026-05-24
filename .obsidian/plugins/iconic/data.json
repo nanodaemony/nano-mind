@@ -145,9 +145,69 @@
       "icon": "lucide-laugh",
       "color": "purple"
     },
+    "E-Java/1-基础/10. 泛型.md": {
+      "icon": "lucide-laugh",
+      "color": "purple"
+    },
     "E-Java/1-基础/2. 类与继承.md": {
       "icon": "lucide-laugh",
       "color": "purple"
+    },
+    "E-Java/1-基础/3. 抽象类与接口.md": {
+      "icon": "lucide-laugh",
+      "color": "purple"
+    },
+    "E-Java/1-基础/4. 内部类.md": {
+      "icon": "lucide-laugh",
+      "color": "purple"
+    },
+    "E-Java/1-基础/5. 枚举类.md": {
+      "icon": "lucide-laugh",
+      "color": "purple"
+    },
+    "E-Java/1-基础/6. 常用类.md": {
+      "icon": "lucide-laugh",
+      "color": "purple"
+    },
+    "E-Java/1-基础/7. 关键字.md": {
+      "icon": "lucide-laugh",
+      "color": "purple"
+    },
+    "E-Java/1-基础/8. 注解.md": {
+      "icon": "lucide-laugh",
+      "color": "purple"
+    },
+    "E-Java/1-基础/9. 异常.md": {
+      "icon": "lucide-laugh",
+      "color": "purple"
+    },
+    "E-Java/2-容器类/1. 容器集合类.md": {
+      "icon": "lucide-laugh",
+      "color": "orange"
+    },
+    "E-Java/2-容器类/2. List与Queue类.md": {
+      "icon": "lucide-laugh",
+      "color": "orange"
+    },
+    "E-Java/2-容器类/3. Map与Set类.md": {
+      "icon": "lucide-laugh",
+      "color": "orange"
+    },
+    "E-Java/2-容器类/4. 并发容器类.md": {
+      "icon": "lucide-laugh",
+      "color": "orange"
+    },
+    "E-Java/3-并发/1. 多线程基础.md": {
+      "icon": "lucide-laugh",
+      "color": "red"
+    },
+    "E-Java/3-并发/2. Java内置锁.md": {
+      "icon": "lucide-laugh",
+      "color": "red"
+    },
+    "E-Java/3-并发/3. AQS.md": {
+      "icon": "lucide-laugh",
+      "color": "red"
     }
   },
   "bookmarkIcons": {},
