@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "E-Java/3-并发/3. AQS.md",
+                "file": "H-算法/2-算法题目/1.数组题目.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. AQS"
+              "title": "1.数组题目"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "E-Java/3-并发/3. AQS.md",
+                "file": "H-算法/2-算法题目/1.数组题目.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "3. AQS 的大纲"
+              "title": "1.数组题目 的大纲"
             }
           }
         ],
@@ -188,6 +188,17 @@
   },
   "active": "bb73ce3bbda80b28",
   "lastOpenFiles": [
+    "G-系统/2-系统接入/3. Netty.md",
+    "F-设计与开发/6-代码质量/2. 阿里巴巴编程规范.md",
+    "F-设计与开发/6-代码质量/1. 代码整洁之道.md",
+    "F-设计与开发/4-工具与环境/4. MyBatis.md",
+    "F-设计与开发/1-软件设计/2. 设计模式.md",
+    "E-Java/3-并发/8. ThreadLocal.md",
+    "E-Java/3-并发/7. 线程池与定时任务.md",
+    "E-Java/3-并发/6. Atomic原子变量与Unsafe类与CAS.md",
+    "E-Java/3-并发/5. 线程协作与JUC组件.md",
+    "E-Java/3-并发/4. 显式锁ReentrantLock.md",
+    "E-Java/3-并发/3. AQS.md",
     "E-Java/3-并发/2. Java内置锁.md",
     "E-Java/3-并发/1. 多线程基础.md",
     "E-Java/2-容器类/4. 并发容器类.md",
@@ -213,17 +224,6 @@
     "zimg/yuque-1779533336364-70.png",
     "zimg/yuque-1779533336279-69.png",
     "zimg/yuque-1779533336176-68.png",
-    "E-Java/1-基础/1. Java基础.md",
-    "D-基础/3-网络/8. 综合问题.md",
-    "D-基础/3-网络/7. 网络安全.md",
-    "D-基础/3-网络/6. HTTP.md",
-    "D-基础/3-网络/5. 应用层.md",
-    "D-基础/3-网络/4. 传输层.md",
-    "D-基础/3-网络/3. 网络层.md",
-    "D-基础/3-网络/2. 数据链路层.md",
-    "D-基础/3-网络/1. 网络基础.md",
-    "D-基础/2-操作系统/7. Shell常见命令.md",
-    "D-基础/2-操作系统/6. Shell编程基础.md",
     "C-工作/5-YFD/3-问题记录",
     "C-工作/5-YFD/2-墨水屏",
     "C-工作/5-YFD/1-口算",
