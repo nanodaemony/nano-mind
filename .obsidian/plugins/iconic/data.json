@@ -208,6 +208,18 @@
     "E-Java/3-并发/3. AQS.md": {
       "icon": "lucide-laugh",
       "color": "red"
+    },
+    "E-Java/3-并发/4. 显式锁ReentrantLock.md": {
+      "icon": "lucide-laugh",
+      "color": "red"
+    },
+    "E-Java/3-并发/5. 线程协作与JUC组件.md": {
+      "icon": "lucide-laugh",
+      "color": "red"
+    },
+    "E-Java/3-并发/6. Atomic原子变量与Unsafe类与CAS.md": {
+      "icon": "lucide-laugh",
+      "color": "red"
     }
   },
   "bookmarkIcons": {},
