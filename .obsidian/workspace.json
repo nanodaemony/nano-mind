@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "E-Java/5-JVM/8. 虚拟机字节码执行引擎.md",
+                "file": "F-设计与开发/2-数据库/2. MySQL基础必知必会.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8. 虚拟机字节码执行引擎"
+              "title": "2. MySQL基础必知必会"
             }
           }
         ]
@@ -41,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "E-Java/5-JVM/8. 虚拟机字节码执行引擎.md",
+                "file": "F-设计与开发/2-数据库/2. MySQL基础必知必会.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "8. 虚拟机字节码执行引擎 的大纲"
+              "title": "2. MySQL基础必知必会 的大纲"
             }
           }
         ],
@@ -186,8 +186,24 @@
       "iconic:打开规则书": false
     }
   },
-  "active": "d6f951a737894e7e",
+  "active": "bb73ce3bbda80b28",
   "lastOpenFiles": [
+    "F-设计与开发/2-数据库/1. 数据库系统原理.md",
+    "F-设计与开发/1-软件设计/3. DDD.md",
+    "F-设计与开发/1-软件设计/2. 设计模式.md",
+    "G-系统/2-系统接入/3. Netty.md",
+    "G-系统/2-系统接入/2. Nginx.md",
+    "G-系统/2-系统接入/1. Tomcat.md",
+    "F-设计与开发/4-工具与环境/3. Git.md",
+    "F-设计与开发/4-工具与环境/4. MyBatis.md",
+    "F-设计与开发/1-软件设计/1. 软件设计基础理论.md",
+    "E-Java/5-JVM/20. 综合问题.md",
+    "E-Java/5-JVM/13. 线程安全与内置锁优化.md",
+    "E-Java/5-JVM/12. Java内存模型与线程实现.md",
+    "E-Java/5-JVM/11. 后端编译与优化.md",
+    "E-Java/5-JVM/10. 前端编译与优化.md",
+    "E-Java/5-JVM/9. 类加载及执行子系统的案例与实战.md",
+    "E-Java/5-JVM/8. 虚拟机字节码执行引擎.md",
     "E-Java/5-JVM/7. 虚拟机类加载机制.md",
     "E-Java/5-JVM/6. 类文件结构.md",
     "E-Java/5-JVM/5. 调优案例分析与实战.md",
@@ -198,22 +214,6 @@
     "E-Java/5-JVM/1. 走进JVM.md",
     "E-Java/4-高级特性/7. SPI.md",
     "E-Java/4-高级特性/6. 代理.md",
-    "E-Java/4-高级特性/5. 反射.md",
-    "E-Java/4-高级特性/4. 流Stream.md",
-    "E-Java/4-高级特性/3. Lambda表达式.md",
-    "E-Java/4-高级特性/2. Java网络IO.md",
-    "E-Java/4-高级特性/1. IO操作.md",
-    "E-Java/3-并发/8. ThreadLocal.md",
-    "E-Java/3-并发/7. 线程池与定时任务.md",
-    "E-Java/3-并发/6. Atomic原子变量与Unsafe类与CAS.md",
-    "E-Java/3-并发/5. 线程协作与JUC组件.md",
-    "O-待看/41-10x程序员工作法.md",
-    "O-待看/101-后端技术面试38讲.md",
-    "O-待看/173-代码之丑.md",
-    "O-待看/119-Java 业务开发常见错误 100 例.md",
-    "O-待看/98-设计模式之美.md",
-    "O-待看/88-高并发系统设计40问.md",
-    "O-待看/79-消息队列高手课.md",
     "zimg/yuque-1779533337402-77.png",
     "zimg/yuque-1779533337301-76.png",
     "zimg/yuque-1779533337195-75.png",

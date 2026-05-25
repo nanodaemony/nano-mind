@@ -248,6 +248,30 @@
     "E-Java/4-高级特性/5. 反射.md": {
       "icon": "lucide-laugh",
       "color": "orange"
+    },
+    "E-Java/4-高级特性/6. 代理.md": {
+      "icon": "lucide-laugh",
+      "color": "orange"
+    },
+    "E-Java/4-高级特性/7. SPI.md": {
+      "icon": "lucide-laugh",
+      "color": "orange"
+    },
+    "E-Java/5-JVM/1. 走进JVM.md": {
+      "icon": "lucide-laugh",
+      "color": "blue"
+    },
+    "E-Java/5-JVM/2. JVM内存区域与对象解析.md": {
+      "icon": "lucide-laugh",
+      "color": "blue"
+    },
+    "E-Java/5-JVM/3. 垃圾收集器与内存分配策略.md": {
+      "icon": "lucide-laugh",
+      "color": "blue"
+    },
+    "E-Java/5-JVM/4. JVM性能监控与故障处理工具.md": {
+      "icon": "lucide-laugh",
+      "color": "blue"
     }
   },
   "bookmarkIcons": {},
