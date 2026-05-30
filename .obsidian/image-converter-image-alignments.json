@@ -2763,116 +2763,70 @@
       "wrap": false
     }
   },
-  "E-Java/5-JVM/5. 调优案例分析与实战.md": {
-    "ba61ee8a1b959ec0cfa6b54f2ea21379": {
-      "position": "center",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "6789680c1d4006961387054e6b563c87": {
+  "G-系统/5-分布式存储/1. 分布式存储.md": {
+    "3094b2ad7023d6394079ca0f10b97cbb": {
       "position": "center",
       "width": "",
       "height": "",
       "wrap": false
     }
   },
-  "E-Java/5-JVM/6. 类文件结构.md": {
-    "4b60f6607eba6e86488abd900615f2ec": {
+  "G-系统/6-中间件之消息队列/1. 基础.md": {
+    "b8333a49db35117e079583335a8e190f": {
       "position": "center",
       "width": "",
       "height": "",
       "wrap": false
     },
-    "192bbe40ea2b60e604b729bbd203d074": {
-      "position": "center",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "0a3f65fdb5b22c89962736e960d076ec": {
+    "3e3a8e8dac48d7a587bf80e57a066dfb": {
       "position": "center",
       "width": "",
       "height": "",
       "wrap": false
     }
   },
-  "E-Java/5-JVM/8. 虚拟机字节码执行引擎.md": {
-    "4e5d4cc14587b46e80c51ce9533ebd01": {
+  "G-系统/7-中间件之缓存/1. 缓存设计.md": {
+    "90a5b1ab3c91704c80ce6c299cecb127": {
       "position": "center",
       "width": "",
       "height": "",
       "wrap": false
     },
-    "97186cc697ed9ecb10d05eaa25f59a6d": {
-      "position": "center",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "acabd381d07e74a3f1c54b4281e4249b": {
-      "position": "center",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "25afa7a7358b3cf1aa4d804ec3e11f9c": {
+    "9e66dae47fb80062cdbd6ad719ef94e5": {
       "position": "center",
       "width": "",
       "height": "",
       "wrap": false
     }
   },
-  "E-Java/5-JVM/9. 类加载及执行子系统的案例与实战.md": {
-    "0187f7f3c04221b9134318caf9591055": {
+  "G-系统/7-中间件之缓存/2. 缓存基础.md": {
+    "9e407e73ed44d792c593cb64c4b57f06": {
       "position": "center",
       "width": "",
       "height": "",
       "wrap": false
     },
-    "4a203fdc3113ab5e4f00c76e20601858": {
+    "cf0e51121b17dce0055ca6e22100e500": {
       "position": "center",
       "width": "",
       "height": "",
       "wrap": false
     },
-    "a965b8ee68abd2f1ad5015a82c1eed9b": {
+    "acc1f68ebb5ef3b93375368c3837a7c8": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "41700daf6474c72856a9ed677e2e5aaa": {
       "position": "center",
       "width": "",
       "height": "",
       "wrap": false
     }
   },
-  "E-Java/5-JVM/10. 前端编译与优化.md": {
-    "643d1a4d8c2361f6b6d15c42d3303d97": {
-      "position": "center",
-      "width": "",
-      "height": "",
-      "wrap": false
-    }
-  },
-  "F-设计与开发/4-工具与环境/4. MyBatis.md": {
-    "12eaac6ba912028ebe553559130c75a7": {
-      "position": "center",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "363ed7531b95a3be19b1d26bc9fd8589": {
-      "position": "center",
-      "width": "",
-      "height": "",
-      "wrap": false
-    }
-  },
-  "F-设计与开发/2-数据库/2. MySQL基础必知必会.md": {
-    "43652e5b282b29ad3ba5ceb8206ceead": {
-      "position": "center",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "7d0af2ecdb8f008b1fa24940671d847b": {
+  "G-系统/7-中间件之缓存/3. Redis持久化.md": {
+    "e91157ea1c82f46e091ddc461e460373": {
       "position": "center",
       "width": "",
       "height": "",

@@ -316,6 +316,155 @@
     "F-设计与开发/1-软件设计/1. 软件设计基础理论.md": {
       "icon": "lucide-laugh",
       "color": "cyan"
+    },
+    "F-设计与开发/1-软件设计/2. 设计模式.md": {
+      "icon": "lucide-laugh",
+      "color": "cyan"
+    },
+    "F-设计与开发/1-软件设计/3. DDD.md": {
+      "icon": "lucide-laugh",
+      "color": "cyan"
+    },
+    "F-设计与开发/2-数据库/1. 数据库系统原理.md": {
+      "icon": "lucide-laugh"
+    },
+    "F-设计与开发/2-数据库/10. MySQL索引.md": {
+      "icon": "lucide-laugh"
+    },
+    "F-设计与开发/2-数据库/100. 数据库综合问题.md": {
+      "icon": "lucide-laugh"
+    },
+    "F-设计与开发/2-数据库/11. MySQL锁.md": {
+      "icon": "lucide-laugh"
+    },
+    "F-设计与开发/2-数据库/12. MySQL事务.md": {
+      "icon": "lucide-laugh"
+    },
+    "F-设计与开发/2-数据库/13. MySQL高级特性.md": {
+      "icon": "lucide-laugh"
+    },
+    "F-设计与开发/2-数据库/14. MySQL基础架构与存储引擎.md": {
+      "icon": "lucide-laugh"
+    },
+    "F-设计与开发/2-数据库/2. MySQL基础必知必会.md": {
+      "icon": "lucide-laugh"
+    },
+    "F-设计与开发/2-数据库/20. MySQL优化.md": {
+      "icon": "lucide-laugh"
+    },
+    "F-设计与开发/2-数据库/21. MySQL架构.md": {
+      "icon": "lucide-laugh"
+    },
+    "F-设计与开发/2-数据库/22. MySQL运维.md": {
+      "icon": "lucide-laugh"
+    },
+    "F-设计与开发/2-数据库/23. MySQL设计规范.md": {
+      "icon": "lucide-laugh"
+    },
+    "F-设计与开发/2-数据库/3. 数据库LeetCode题目.md": {
+      "icon": "lucide-laugh"
+    },
+    "F-设计与开发/3-Spring/1. Spring Boot基础.md": {
+      "icon": "lucide-laugh",
+      "color": "orange"
+    },
+    "F-设计与开发/3-Spring/100. Spring IOC源码分析.md": {
+      "icon": "lucide-laugh",
+      "color": "orange"
+    },
+    "F-设计与开发/3-Spring/101. Spring AOP源码分析.md": {
+      "icon": "lucide-laugh",
+      "color": "orange"
+    },
+    "F-设计与开发/3-Spring/102. Spring事务源码分析.md": {
+      "icon": "lucide-laugh",
+      "color": "orange"
+    },
+    "F-设计与开发/3-Spring/103. Spring Boot源码分析.md": {
+      "icon": "lucide-laugh",
+      "color": "orange"
+    },
+    "F-设计与开发/3-Spring/104. Spring MVC源码分析.md": {
+      "icon": "lucide-laugh",
+      "color": "orange"
+    },
+    "F-设计与开发/3-Spring/2. Spring Boot应用.md": {
+      "icon": "lucide-laugh",
+      "color": "orange"
+    },
+    "F-设计与开发/3-Spring/200. Spring Cloud总结.md": {
+      "icon": "lucide-laugh",
+      "color": "orange"
+    },
+    "F-设计与开发/3-Spring/3. Spring MVC基础.md": {
+      "icon": "lucide-laugh",
+      "color": "orange"
+    },
+    "F-设计与开发/3-Spring/4. Spring AOP基础.md": {
+      "icon": "lucide-laugh",
+      "color": "orange"
+    },
+    "F-设计与开发/3-Spring/5. Spring事务基础.md": {
+      "icon": "lucide-laugh",
+      "color": "orange"
+    },
+    "F-设计与开发/4-工具与环境/1. Arthas.md": {
+      "icon": "lucide-laugh",
+      "color": "green"
+    },
+    "F-设计与开发/4-工具与环境/2. Maven.md": {
+      "icon": "lucide-laugh",
+      "color": "green"
+    },
+    "F-设计与开发/4-工具与环境/3. Git.md": {
+      "icon": "lucide-laugh",
+      "color": "green"
+    },
+    "F-设计与开发/4-工具与环境/4. MyBatis.md": {
+      "icon": "lucide-laugh",
+      "color": "green"
+    },
+    "F-设计与开发/4-工具与环境/5. 环境搭建与部署.md": {
+      "icon": "lucide-laugh",
+      "color": "green"
+    },
+    "F-设计与开发/5-测试/1. 单元测试.md": {
+      "icon": "lucide-laugh"
+    },
+    "F-设计与开发/6-代码质量/1. 代码整洁之道.md": {
+      "icon": "lucide-laugh"
+    },
+    "G-系统/1-分布式系统基础/1. 分布式系统基础.md": {
+      "icon": "lucide-laugh",
+      "color": "cyan"
+    },
+    "G-系统/1-分布式系统基础/2. 分布式共识算法.md": {
+      "icon": "lucide-laugh",
+      "color": "cyan"
+    },
+    "G-系统/1-分布式系统基础/3. 分布式事务.md": {
+      "icon": "lucide-laugh",
+      "color": "cyan"
+    },
+    "G-系统/1-分布式系统基础/4. 分布式系统组件.md": {
+      "icon": "lucide-laugh",
+      "color": "cyan"
+    },
+    "G-系统/2-系统接入/1. Tomcat.md": {
+      "icon": "lucide-laugh",
+      "color": "pink"
+    },
+    "G-系统/2-系统接入/2. Nginx.md": {
+      "icon": "lucide-laugh",
+      "color": "pink"
+    },
+    "G-系统/2-系统接入/3. Netty.md": {
+      "icon": "lucide-laugh",
+      "color": "pink"
+    },
+    "G-系统/3-服务治理-流量控制/1. 负载均衡.md": {
+      "icon": "lucide-laugh",
+      "color": "green"
     }
   },
   "bookmarkIcons": {},

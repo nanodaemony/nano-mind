@@ -50,5 +50,14 @@
       ],
       "key": "."
     }
+  ],
+  "editor:table-row-delete": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "D"
+    }
   ]
 }

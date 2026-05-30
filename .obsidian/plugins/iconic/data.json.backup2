@@ -261,7 +261,27 @@
       "icon": "lucide-laugh",
       "color": "blue"
     },
+    "E-Java/5-JVM/10. 前端编译与优化.md": {
+      "icon": "lucide-laugh",
+      "color": "blue"
+    },
+    "E-Java/5-JVM/11. 后端编译与优化.md": {
+      "icon": "lucide-laugh",
+      "color": "blue"
+    },
+    "E-Java/5-JVM/12. Java内存模型与线程实现.md": {
+      "icon": "lucide-laugh",
+      "color": "blue"
+    },
+    "E-Java/5-JVM/13. 线程安全与内置锁优化.md": {
+      "icon": "lucide-laugh",
+      "color": "blue"
+    },
     "E-Java/5-JVM/2. JVM内存区域与对象解析.md": {
+      "icon": "lucide-laugh",
+      "color": "blue"
+    },
+    "E-Java/5-JVM/20. 综合问题.md": {
       "icon": "lucide-laugh",
       "color": "blue"
     },
@@ -272,6 +292,147 @@
     "E-Java/5-JVM/4. JVM性能监控与故障处理工具.md": {
       "icon": "lucide-laugh",
       "color": "blue"
+    },
+    "E-Java/5-JVM/5. 调优案例分析与实战.md": {
+      "icon": "lucide-laugh",
+      "color": "blue"
+    },
+    "E-Java/5-JVM/6. 类文件结构.md": {
+      "icon": "lucide-laugh",
+      "color": "blue"
+    },
+    "E-Java/5-JVM/7. 虚拟机类加载机制.md": {
+      "icon": "lucide-laugh",
+      "color": "blue"
+    },
+    "E-Java/5-JVM/8. 虚拟机字节码执行引擎.md": {
+      "icon": "lucide-laugh",
+      "color": "blue"
+    },
+    "E-Java/5-JVM/9. 类加载及执行子系统的案例与实战.md": {
+      "icon": "lucide-laugh",
+      "color": "blue"
+    },
+    "F-设计与开发/1-软件设计/1. 软件设计基础理论.md": {
+      "icon": "lucide-laugh",
+      "color": "cyan"
+    },
+    "F-设计与开发/1-软件设计/2. 设计模式.md": {
+      "icon": "lucide-laugh",
+      "color": "cyan"
+    },
+    "F-设计与开发/1-软件设计/3. DDD.md": {
+      "icon": "lucide-laugh",
+      "color": "cyan"
+    },
+    "F-设计与开发/2-数据库/1. 数据库系统原理.md": {
+      "icon": "lucide-laugh"
+    },
+    "F-设计与开发/2-数据库/10. MySQL索引.md": {
+      "icon": "lucide-laugh"
+    },
+    "F-设计与开发/2-数据库/100. 数据库综合问题.md": {
+      "icon": "lucide-laugh"
+    },
+    "F-设计与开发/2-数据库/11. MySQL锁.md": {
+      "icon": "lucide-laugh"
+    },
+    "F-设计与开发/2-数据库/12. MySQL事务.md": {
+      "icon": "lucide-laugh"
+    },
+    "F-设计与开发/2-数据库/13. MySQL高级特性.md": {
+      "icon": "lucide-laugh"
+    },
+    "F-设计与开发/2-数据库/14. MySQL基础架构与存储引擎.md": {
+      "icon": "lucide-laugh"
+    },
+    "F-设计与开发/2-数据库/2. MySQL基础必知必会.md": {
+      "icon": "lucide-laugh"
+    },
+    "F-设计与开发/2-数据库/20. MySQL优化.md": {
+      "icon": "lucide-laugh"
+    },
+    "F-设计与开发/2-数据库/21. MySQL架构.md": {
+      "icon": "lucide-laugh"
+    },
+    "F-设计与开发/2-数据库/22. MySQL运维.md": {
+      "icon": "lucide-laugh"
+    },
+    "F-设计与开发/2-数据库/23. MySQL设计规范.md": {
+      "icon": "lucide-laugh"
+    },
+    "F-设计与开发/2-数据库/3. 数据库LeetCode题目.md": {
+      "icon": "lucide-laugh"
+    },
+    "F-设计与开发/3-Spring/1. Spring Boot基础.md": {
+      "icon": "lucide-laugh",
+      "color": "orange"
+    },
+    "F-设计与开发/3-Spring/100. Spring IOC源码分析.md": {
+      "icon": "lucide-laugh",
+      "color": "orange"
+    },
+    "F-设计与开发/3-Spring/101. Spring AOP源码分析.md": {
+      "icon": "lucide-laugh",
+      "color": "orange"
+    },
+    "F-设计与开发/3-Spring/102. Spring事务源码分析.md": {
+      "icon": "lucide-laugh",
+      "color": "orange"
+    },
+    "F-设计与开发/3-Spring/103. Spring Boot源码分析.md": {
+      "icon": "lucide-laugh",
+      "color": "orange"
+    },
+    "F-设计与开发/3-Spring/104. Spring MVC源码分析.md": {
+      "icon": "lucide-laugh",
+      "color": "orange"
+    },
+    "F-设计与开发/3-Spring/2. Spring Boot应用.md": {
+      "icon": "lucide-laugh",
+      "color": "orange"
+    },
+    "F-设计与开发/3-Spring/200. Spring Cloud总结.md": {
+      "icon": "lucide-laugh",
+      "color": "orange"
+    },
+    "F-设计与开发/3-Spring/3. Spring MVC基础.md": {
+      "icon": "lucide-laugh",
+      "color": "orange"
+    },
+    "F-设计与开发/3-Spring/4. Spring AOP基础.md": {
+      "icon": "lucide-laugh",
+      "color": "orange"
+    },
+    "F-设计与开发/3-Spring/5. Spring事务基础.md": {
+      "icon": "lucide-laugh",
+      "color": "orange"
+    },
+    "F-设计与开发/4-工具与环境/1. Arthas.md": {
+      "icon": "lucide-laugh",
+      "color": "green"
+    },
+    "F-设计与开发/4-工具与环境/2. Maven.md": {
+      "icon": "lucide-laugh",
+      "color": "green"
+    },
+    "F-设计与开发/4-工具与环境/3. Git.md": {
+      "icon": "lucide-laugh",
+      "color": "green"
+    },
+    "F-设计与开发/4-工具与环境/4. MyBatis.md": {
+      "icon": "lucide-laugh",
+      "color": "green"
+    },
+    "F-设计与开发/4-工具与环境/5. 环境搭建与部署.md": {
+      "icon": "lucide-laugh",
+      "color": "green"
+    },
+    "F-设计与开发/5-测试/1. 单元测试.md": {
+      "icon": "lucide-laugh"
+    },
+    "F-设计与开发/6-代码质量/1. 代码整洁之道.md": {
+      "icon": "lucide-laugh"
     }
   },
   "bookmarkIcons": {},
