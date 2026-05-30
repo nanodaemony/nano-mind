@@ -433,6 +433,38 @@
     },
     "F-设计与开发/6-代码质量/1. 代码整洁之道.md": {
       "icon": "lucide-laugh"
+    },
+    "G-系统/1-分布式系统基础/1. 分布式系统基础.md": {
+      "icon": "lucide-laugh",
+      "color": "cyan"
+    },
+    "G-系统/1-分布式系统基础/2. 分布式共识算法.md": {
+      "icon": "lucide-laugh",
+      "color": "cyan"
+    },
+    "G-系统/1-分布式系统基础/3. 分布式事务.md": {
+      "icon": "lucide-laugh",
+      "color": "cyan"
+    },
+    "G-系统/1-分布式系统基础/4. 分布式系统组件.md": {
+      "icon": "lucide-laugh",
+      "color": "cyan"
+    },
+    "G-系统/2-系统接入/1. Tomcat.md": {
+      "icon": "lucide-laugh",
+      "color": "pink"
+    },
+    "G-系统/2-系统接入/2. Nginx.md": {
+      "icon": "lucide-laugh",
+      "color": "pink"
+    },
+    "G-系统/2-系统接入/3. Netty.md": {
+      "icon": "lucide-laugh",
+      "color": "pink"
+    },
+    "G-系统/3-服务治理-流量控制/1. 负载均衡.md": {
+      "icon": "lucide-laugh",
+      "color": "green"
     }
   },
   "bookmarkIcons": {},

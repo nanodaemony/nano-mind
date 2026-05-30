@@ -504,6 +504,30 @@
     "G-系统/7-中间件之缓存/2. 缓存基础.md": {
       "icon": "lucide-laugh",
       "color": "purple"
+    },
+    "G-系统/7-中间件之缓存/3. Redis持久化.md": {
+      "icon": "lucide-laugh",
+      "color": "purple"
+    },
+    "G-系统/7-中间件之缓存/4. Redis主从复制.md": {
+      "icon": "lucide-laugh",
+      "color": "purple"
+    },
+    "G-系统/7-中间件之缓存/5. Redis哨兵.md": {
+      "icon": "lucide-laugh",
+      "color": "purple"
+    },
+    "G-系统/7-中间件之缓存/6. Redis集群.md": {
+      "icon": "lucide-laugh",
+      "color": "purple"
+    },
+    "G-系统/7-中间件之缓存/7. Redis内存与运维.md": {
+      "icon": "lucide-laugh",
+      "color": "purple"
+    },
+    "G-系统/7-中间件之缓存/8. 缓存综合问题.md": {
+      "icon": "lucide-laugh",
+      "color": "purple"
     }
   },
   "bookmarkIcons": {},

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "G-系统/7-中间件之缓存/3. Redis持久化.md",
+                "file": "G-系统/8-中间件之其他/1. Zookeeper.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Redis持久化"
+              "title": "1. Zookeeper"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "G-系统/7-中间件之缓存/3. Redis持久化.md",
+                "file": "G-系统/8-中间件之其他/1. Zookeeper.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "3. Redis持久化 的大纲"
+              "title": "1. Zookeeper 的大纲"
             }
           }
         ],
@@ -188,6 +188,12 @@
   },
   "active": "bb73ce3bbda80b28",
   "lastOpenFiles": [
+    "G-系统/7-中间件之缓存/8. 缓存综合问题.md",
+    "G-系统/7-中间件之缓存/7. Redis内存与运维.md",
+    "G-系统/7-中间件之缓存/6. Redis集群.md",
+    "G-系统/7-中间件之缓存/5. Redis哨兵.md",
+    "G-系统/7-中间件之缓存/4. Redis主从复制.md",
+    "G-系统/7-中间件之缓存/3. Redis持久化.md",
     "G-系统/7-中间件之缓存/2. 缓存基础.md",
     "G-系统/7-中间件之缓存/1. 缓存设计.md",
     "G-系统/6-中间件之消息队列/4. 消息队列综合问题.md",
@@ -208,12 +214,6 @@
     "G-系统/1-分布式系统基础/3. 分布式事务.md",
     "G-系统/1-分布式系统基础/2. 分布式共识算法.md",
     "G-系统/1-分布式系统基础/1. 分布式系统基础.md",
-    "F-设计与开发/6-代码质量/1. 代码整洁之道.md",
-    "F-设计与开发/6-代码质量/2. 阿里巴巴编程规范.md",
-    "F-设计与开发/5-测试/1. 单元测试.md",
-    "F-设计与开发/4-工具与环境/5. 环境搭建与部署.md",
-    "F-设计与开发/4-工具与环境/4. MyBatis.md",
-    "F-设计与开发/4-工具与环境/3. Git.md",
     "zimg/yuque-1779533337402-77.png",
     "zimg/yuque-1779533337301-76.png",
     "zimg/yuque-1779533337195-75.png",
