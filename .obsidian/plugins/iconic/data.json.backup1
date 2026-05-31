@@ -520,6 +520,26 @@
     "G-系统/7-中间件之缓存/6. Redis集群.md": {
       "icon": "lucide-laugh",
       "color": "purple"
+    },
+    "G-系统/7-中间件之缓存/7. Redis内存与运维.md": {
+      "icon": "lucide-laugh",
+      "color": "purple"
+    },
+    "G-系统/7-中间件之缓存/8. 缓存综合问题.md": {
+      "icon": "lucide-laugh",
+      "color": "purple"
+    },
+    "G-系统/8-中间件之其他/1. Zookeeper.md": {
+      "icon": "lucide-laugh",
+      "color": "blue"
+    },
+    "G-系统/8-中间件之其他/2. RPC.md": {
+      "icon": "lucide-laugh",
+      "color": "blue"
+    },
+    "G-系统/8-中间件之其他/3. ElasticSearch.md": {
+      "icon": "lucide-laugh",
+      "color": "blue"
     }
   },
   "bookmarkIcons": {},

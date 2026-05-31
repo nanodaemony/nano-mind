@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "G-系统/8-中间件之其他/1. Zookeeper.md",
+                "file": "H-算法/2-算法题目/1.数组题目.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Zookeeper"
+              "title": "1.数组题目"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "G-系统/8-中间件之其他/1. Zookeeper.md",
+                "file": "H-算法/2-算法题目/1.数组题目.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "1. Zookeeper 的大纲"
+              "title": "1.数组题目 的大纲"
             }
           }
         ],
@@ -188,6 +188,13 @@
   },
   "active": "bb73ce3bbda80b28",
   "lastOpenFiles": [
+    "H-算法/2-算法题目/0.Codetop高频算法.md",
+    "H-算法/1-数据结构/1.数据结构.md",
+    "G-系统/9-系统设计与优化/1. 系统设计与服务治理.md",
+    "G-系统/8-中间件之其他/4. 任务调度.md",
+    "G-系统/8-中间件之其他/3. ElasticSearch.md",
+    "G-系统/8-中间件之其他/2. RPC.md",
+    "G-系统/8-中间件之其他/1. Zookeeper.md",
     "G-系统/7-中间件之缓存/8. 缓存综合问题.md",
     "G-系统/7-中间件之缓存/7. Redis内存与运维.md",
     "G-系统/7-中间件之缓存/6. Redis集群.md",
@@ -207,13 +214,6 @@
     "G-系统/3-服务治理-流量控制/2. 流量控制.md",
     "G-系统/2-系统接入/3. Netty.md",
     "G-系统/3-服务治理-流量控制/1. 负载均衡.md",
-    "A-AIGC/音频生成.md",
-    "G-系统/2-系统接入/2. Nginx.md",
-    "G-系统/2-系统接入/1. Tomcat.md",
-    "G-系统/1-分布式系统基础/4. 分布式系统组件.md",
-    "G-系统/1-分布式系统基础/3. 分布式事务.md",
-    "G-系统/1-分布式系统基础/2. 分布式共识算法.md",
-    "G-系统/1-分布式系统基础/1. 分布式系统基础.md",
     "zimg/yuque-1779533337402-77.png",
     "zimg/yuque-1779533337301-76.png",
     "zimg/yuque-1779533337195-75.png",

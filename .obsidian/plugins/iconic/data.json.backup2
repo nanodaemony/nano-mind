@@ -465,6 +465,61 @@
     "G-系统/3-服务治理-流量控制/1. 负载均衡.md": {
       "icon": "lucide-laugh",
       "color": "green"
+    },
+    "G-系统/3-服务治理-流量控制/2. 流量控制.md": {
+      "icon": "lucide-laugh",
+      "color": "green"
+    },
+    "G-系统/3-服务治理-流量控制/3. 服务网关与路由.md": {
+      "icon": "lucide-laugh",
+      "color": "green"
+    },
+    "G-系统/4-服务治理-系统安全与监控/1. 系统安全性.md": {
+      "icon": "lucide-laugh",
+      "color": "purple"
+    },
+    "G-系统/5-分布式存储/1. 分布式存储.md": {
+      "icon": "lucide-laugh"
+    },
+    "G-系统/6-中间件之消息队列/1. 基础.md": {
+      "icon": "lucide-laugh",
+      "color": "blue"
+    },
+    "G-系统/6-中间件之消息队列/2. RocketMQ.md": {
+      "icon": "lucide-laugh",
+      "color": "blue"
+    },
+    "G-系统/6-中间件之消息队列/3. Kafka.md": {
+      "icon": "lucide-laugh",
+      "color": "blue"
+    },
+    "G-系统/6-中间件之消息队列/4. 消息队列综合问题.md": {
+      "icon": "lucide-laugh",
+      "color": "blue"
+    },
+    "G-系统/7-中间件之缓存/1. 缓存设计.md": {
+      "icon": "lucide-laugh",
+      "color": "purple"
+    },
+    "G-系统/7-中间件之缓存/2. 缓存基础.md": {
+      "icon": "lucide-laugh",
+      "color": "purple"
+    },
+    "G-系统/7-中间件之缓存/3. Redis持久化.md": {
+      "icon": "lucide-laugh",
+      "color": "purple"
+    },
+    "G-系统/7-中间件之缓存/4. Redis主从复制.md": {
+      "icon": "lucide-laugh",
+      "color": "purple"
+    },
+    "G-系统/7-中间件之缓存/5. Redis哨兵.md": {
+      "icon": "lucide-laugh",
+      "color": "purple"
+    },
+    "G-系统/7-中间件之缓存/6. Redis集群.md": {
+      "icon": "lucide-laugh",
+      "color": "purple"
     }
   },
   "bookmarkIcons": {},
