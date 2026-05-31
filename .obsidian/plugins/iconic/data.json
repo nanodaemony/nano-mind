@@ -555,6 +555,22 @@
     "H-算法/2-算法题目/0.Codetop高频算法.md": {
       "icon": "lucide-laugh",
       "color": "pink"
+    },
+    "H-算法/2-算法题目/1.数组题目.md": {
+      "icon": "lucide-laugh",
+      "color": "pink"
+    },
+    "H-算法/2-算法题目/2.哈希表题目.md": {
+      "icon": "lucide-laugh",
+      "color": "pink"
+    },
+    "H-算法/2-算法题目/3.元素查找题目.md": {
+      "icon": "lucide-laugh",
+      "color": "pink"
+    },
+    "H-算法/2-算法题目/4.双指针题目.md": {
+      "icon": "lucide-laugh",
+      "color": "pink"
     }
   },
   "bookmarkIcons": {},

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "H-算法/2-算法题目/1.数组题目.md",
+                "file": "H-算法/2-算法题目/4.双指针题目.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.数组题目"
+              "title": "4.双指针题目"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "H-算法/2-算法题目/1.数组题目.md",
+                "file": "H-算法/2-算法题目/4.双指针题目.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "1.数组题目 的大纲"
+              "title": "4.双指针题目 的大纲"
             }
           }
         ],
@@ -188,6 +188,9 @@
   },
   "active": "bb73ce3bbda80b28",
   "lastOpenFiles": [
+    "H-算法/2-算法题目/3.元素查找题目.md",
+    "H-算法/2-算法题目/2.哈希表题目.md",
+    "H-算法/2-算法题目/1.数组题目.md",
     "H-算法/2-算法题目/0.Codetop高频算法.md",
     "H-算法/1-数据结构/1.数据结构.md",
     "G-系统/9-系统设计与优化/1. 系统设计与服务治理.md",
@@ -211,9 +214,6 @@
     "A-AIGC/API KEY.md",
     "G-系统/4-服务治理-系统安全与监控/1. 系统安全性.md",
     "G-系统/3-服务治理-流量控制/3. 服务网关与路由.md",
-    "G-系统/3-服务治理-流量控制/2. 流量控制.md",
-    "G-系统/2-系统接入/3. Netty.md",
-    "G-系统/3-服务治理-流量控制/1. 负载均衡.md",
     "zimg/yuque-1779533337402-77.png",
     "zimg/yuque-1779533337301-76.png",
     "zimg/yuque-1779533337195-75.png",
